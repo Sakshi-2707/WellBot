@@ -14,7 +14,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 
 userdata = {
-    'API_KEY': 'AIzaSyCE9-4Cnkr0CEvWmp7iVuGGzPpdR8_tM6Y'
+    'API_KEY': 'your api key'
 }
 
 GOOGLE_API_KEY = userdata.get('API_KEY')
